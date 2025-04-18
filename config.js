@@ -11,9 +11,9 @@ global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
-global.ownernomer = "263786115435"
-global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸"
-global.ownernumber = '263786115435' 
+global.ownernomer = "263710781795"
+global.ownername = "𝐷𝐸ℕ𝔅𝔒𝑌"
+global.ownernumber = '263710781795' 
 
 module.exports = {
     // ... other settings ...
